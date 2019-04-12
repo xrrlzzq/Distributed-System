@@ -1,0 +1,1 @@
+wsgen -cp bin -r wsdl -d bin -s src -wsdl server.service.DCMS

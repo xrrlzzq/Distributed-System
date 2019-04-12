@@ -1,0 +1,1 @@
+wsimport -s src -d bin -p client.stub -keep wsdl/DCMSService.wsdl
