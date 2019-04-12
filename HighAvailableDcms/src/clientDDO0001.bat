@@ -1,0 +1,1 @@
+java client.ManagerClient ddo0001
